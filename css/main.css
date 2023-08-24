@@ -99,7 +99,7 @@ section {width:100%; height:auto;}
 .profile_contents {width: 100vw; height: 100vh; position: relative; display: flex; justify-content: space-evenly; align-items: center; background-color: #fff;}
 .profile_left {width: 25%; height: 100%; display: flex; flex-flow: column wrap; align-items: center; justify-content: center; text-align:center; background-color:#fbb03b;}
 .profile_img {width:50%; height: 30%; margin: 20px 0 50px 0; border: 10px solid #fff;}
-.profile_img img {width:50%; height: 50%;}
+.profile_img img {width:100%; height: 100%;}
 
 .profile_left h1 {width: 100%; font-size: 35px; margin-top: -100px; color: #fbb03b;}
 .profile_left h1 span {font-family: "suit-extrabold";}
